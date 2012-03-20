@@ -45,7 +45,7 @@ define('BASE_URL', $base_url.'/');
 // MySQL storage of OAuth login details for users
 define('MYSQL_USERS', 'OFF');
 // mysql_connect('localhost', 'username', 'password');
-// mysql_select_db('dabr');
+// mysql_select_db('database_name');
 
 /* The following table is needed to store user login details if you enable MYSQL_USERS:
 
